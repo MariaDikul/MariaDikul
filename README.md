@@ -11,3 +11,8 @@ Windows, Java, Spring Framework, PostgreSQL, Docker, Docker-compose, Nginx, Git,
 - [Домашние работы по курсу "Java-разработчик"](https://github.com/MariaDikul/java-hw)
 
 ### Сертификаты Нетологии
+- [Java-разработчик](https://github.com/MariaDikul/MariaDikul/blob/main/certificate.pdf)
+- [GIT](https://github.com/MariaDikul/MariaDikul/blob/main/git.pdf)
+- [Хранение данных и организация безопасности](https://github.com/MariaDikul/MariaDikul/blob/main/data.pdf)
+- [Spring Boot, deployment и инфраструктура](https://github.com/MariaDikul/MariaDikul/blob/main/springboot.pdf)
+- [Web, Spring & Spring MVC](https://github.com/MariaDikul/MariaDikul/blob/main/web.pdf)
