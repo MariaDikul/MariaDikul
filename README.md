@@ -1,16 +1,13 @@
-## Hi there 👋
+## Привет 👋
+Я Мария Дикуль, разработчик на Java     
 
-<!--
-**MariaDikul/MariaDikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Мой стек
 
-Here are some ideas to get you started:
+Windows, Java, Spring Framework, PostgreSQL, Docker, Docker-compose, Nginx, Git, REST, JUnit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Вот, что я умею
+- [Итоговая работа "Облачное хранилище" по курсу "Java-разработчик"](https://github.com/MariaDikul/diplom_netology)
+- [Курсовая работа "Сетевой чат" по теме "Многопоточное и функциональное программирование"](https://github.com/MariaDikul/course-project)
+- [Домашние работы по курсу "Java-разработчик"](https://github.com/MariaDikul/java-hw)
+
+### Сертификаты Нетологии
